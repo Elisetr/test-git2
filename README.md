@@ -1,1 +1,1 @@
-# test-git2
+# incompatible
